@@ -2,7 +2,7 @@
 Pull up a chair by the hearth!
 Come tell us a story or two. Or listen the story of mine!
 
-![grab-landing-page](https://media.giphy.com/media/1o1wZUne57yDb8ds3k/source.gif)
+
 
 We're glad to have you here. 
 
@@ -18,7 +18,7 @@ oh want to see some code? Then Hurry in, before someone steals your seat!
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@technomage)](https://github.com/ErdemDurmaz/github-readme-stats)
-
+![grab-landing-page](https://media.giphy.com/media/7JI6TvZMp9ud0O7mFq/source.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
