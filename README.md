@@ -4,6 +4,7 @@ Come tell us a story or two. Or listen the story of mine!
 
 ![grab-landing-page](https://media.giphy.com/media/1o1wZUne57yDb8ds3k/source.gif)
 
+We're glad to have you here. You're part of the magic of this place.
 ![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdemDurmaz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemDurmaz)](https://github.com/ErdemDurmaz/github-readme-stats)
 
