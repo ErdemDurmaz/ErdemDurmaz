@@ -5,11 +5,11 @@ Come tell us a story or two. Or listen the story of mine!
 ![grab-landing-page](https://media.giphy.com/media/1o1wZUne57yDb8ds3k/source.gif)
 
 We're glad to have you here. 
-
+- 🔭 I’m currently working on a Django Website
 oh want to see some code? Then Hurry in, before someone steals your seat!
 ![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdemDurmaz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemDurmaz)](https://github.com/ErdemDurmaz/github-readme-stats)
-
+- 🌱 I’m currently learning Linux administration , BASH , C# , Python , Cloud
 Lots of fun stuff happening in the Github tonight! Are ye prepared? 
 
 ![grab-landing-page](https://media.giphy.com/media/7JI6TvZMp9ud0O7mFq/giphy.gif)
@@ -22,13 +22,4 @@ Lots of fun stuff happening in the Github tonight! Are ye prepared?
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@technomage)](https://github.com/ErdemDurmaz/github-readme-stats)
 ![grab-landing-page](https://media.giphy.com/media/fnQd9kJVAx5M3G80mv/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
