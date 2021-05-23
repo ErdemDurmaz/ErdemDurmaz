@@ -20,7 +20,7 @@ oh but Lots of fun stuff happening in the Github tonight! Are ye prepared?
 
 Hmm the fireplace is warm smells some code take a look at here! Every great story starts somewhere... 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@technomage)](https://github.com/ErdemDurmaz/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=technomage)](https://github.com/ErdemDurmaz/github-readme-stats)
 ![grab-landing-page](https://media.giphy.com/media/fnQd9kJVAx5M3G80mv/giphy.gif)
 
 
