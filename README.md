@@ -5,6 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemDurmaz)](https://github.com/ErdemDurmaz/github-readme-stats)
 
 
+![python-for-data-science (1)](https://user-images.githubusercontent.com/14316327/119266409-fe697e80-bbea-11eb-9591-c264c457ce2b.png)
 
 
 
