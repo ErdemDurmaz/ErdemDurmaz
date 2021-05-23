@@ -1,8 +1,9 @@
-### Hi there 👋
+𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! ! 👋
 
 <!--
 **ErdemDurmaz/ErdemDurmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdemDurmaz)](https://github.com/ErdemDurmaz)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
