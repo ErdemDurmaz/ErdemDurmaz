@@ -1,3 +1,4 @@
+
 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! ! 👋
 
 
@@ -6,6 +7,7 @@
 
 
 ![python-for-data-science (1)](https://user-images.githubusercontent.com/14316327/119266409-fe697e80-bbea-11eb-9591-c264c457ce2b.png)
+![ibm-cloud-essentials 2](https://user-images.githubusercontent.com/14316327/119266461-3cff3900-bbeb-11eb-8776-67bad5feab2a.png)
 
 
 
