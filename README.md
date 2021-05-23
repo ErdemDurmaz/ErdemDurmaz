@@ -2,7 +2,7 @@ ohoho ,Come in, and shut the door, it's cold out there!
 Pull up a chair by the hearth!
 Come tell us a story or two.
 
-![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
+![grab-landing-page](https://media.giphy.com/media/1o1wZUne57yDb8ds3k/source.gif)
 
 ![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdemDurmaz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemDurmaz)](https://github.com/ErdemDurmaz/github-readme-stats)
