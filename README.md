@@ -1,5 +1,3 @@
-![cloud-core (1)](https://user-images.githubusercontent.com/14316327/119266511-64560600-bbeb-11eb-8dd8-584c64affc5d.png)
-
 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! ! 👋
 
 
