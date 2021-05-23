@@ -2,6 +2,7 @@
 
 
 [![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdemDurmaz)](https://github.com/ErdemDurmaz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemDurmaz)](https://github.com/ErdemDurmaz/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
