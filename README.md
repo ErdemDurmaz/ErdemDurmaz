@@ -17,7 +17,7 @@ oh want to see some code? Then Hurry in, before someone steals your seat!
 ![ccna-enterprise-networking-security-and-automation](https://user-images.githubusercontent.com/14316327/119267330-71282900-bbee-11eb-8d44-185b00e930ef.png)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=technomage)](https://github.com/ErdemDurmaz/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@technomage)](https://github.com/ErdemDurmaz/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
