@@ -1,7 +1,7 @@
 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! ! 👋
 
 
-[![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdemDurmaz)](https://github.com/ErdemDurmaz)
+![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdemDurmaz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemDurmaz)](https://github.com/ErdemDurmaz/github-readme-stats)
 
 
