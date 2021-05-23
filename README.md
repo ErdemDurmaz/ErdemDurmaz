@@ -4,13 +4,12 @@ Come tell us a story or two. Or listen the story of mine!
 
 ![grab-landing-page](https://media.giphy.com/media/1o1wZUne57yDb8ds3k/source.gif)
 
-We're glad to have you here. 
-- 🔭 I’m currently working on a Django Website
+##### We're glad to have you here.
 
-oh want to see some code? Then Hurry in, before someone steals your seat!
+Oh want to see some code? Then Hurry in, before someone steals your seat!
 ![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdemDurmaz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemDurmaz)](https://github.com/ErdemDurmaz/github-readme-stats)
-- 🌱 I’m currently learning Linux administration , BASH , C# , Python , Cloud
+- 🌱 I’m currently learning Linux administration , BASH , C# , Python , Cloud, Unity, AWS, SQL
 oh but Lots of fun stuff happening in the Github tonight! Are ye prepared? 
 
 ![grab-landing-page](https://media.giphy.com/media/7JI6TvZMp9ud0O7mFq/giphy.gif)
