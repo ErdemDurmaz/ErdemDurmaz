@@ -2,7 +2,7 @@
 Pull up a chair by the hearth!
 Come tell us a story or two. Or listen the story of mine!
 
-
+![grab-landing-page](https://media.giphy.com/media/1o1wZUne57yDb8ds3k/source.gif)
 
 We're glad to have you here. 
 
