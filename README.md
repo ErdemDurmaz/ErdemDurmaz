@@ -18,7 +18,7 @@ oh want to see some code? Then Hurry in, before someone steals your seat!
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@technomage)](https://github.com/ErdemDurmaz/github-readme-stats)
-![grab-landing-page](https://media.giphy.com/media/7JI6TvZMp9ud0O7mFq/source.gif)
+![grab-landing-page](https://media.giphy.com/media/fnQd9kJVAx5M3G80mv/source.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
