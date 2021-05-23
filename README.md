@@ -2,10 +2,13 @@
 
 
 ![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErdemDurmaz&show_icons=true&theme=radical)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemDurmaz)](https://github.com/ErdemDurmaz/github-readme-stats)
+
+
+
+
+
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=technomage)](https://github.com/ErdemDurmaz/github-readme-stats)
 
 
