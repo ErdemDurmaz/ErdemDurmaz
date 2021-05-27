@@ -24,4 +24,5 @@ Hmm the fireplace is warm smells some code take a look at here! Every great stor
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=technomage)](https://github.com/ErdemDurmaz/github-readme-stats)
 ![grab-landing-page](https://media.giphy.com/media/fnQd9kJVAx5M3G80mv/giphy.gif)
 
-
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="technomagee" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/technomagee?trk=profile-badge">Erdem Durmaz</a></div>
+              
