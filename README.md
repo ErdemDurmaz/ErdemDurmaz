@@ -25,3 +25,6 @@ Hmm the fireplace is warm smells some code take a look at here! Every great stor
 ![grab-landing-page](https://media.giphy.com/media/fnQd9kJVAx5M3G80mv/giphy.gif)
 
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="technomagee" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/technomagee?trk=profile-badge">Erdem Durmaz</a></div>
+              
