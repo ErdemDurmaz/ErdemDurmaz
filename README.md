@@ -1,4 +1,4 @@
-![building-cloud-native-and-multicloud-applications (1)](https://user-images.githubusercontent.com/14316327/120120530-1e2a1500-c19e-11eb-9972-ee244df73df9.png)
+
 # Ohoho ,Come in, and shut the door, it's cold out there!
 Pull up a chair by the hearth!
 Come tell us a story or two. Or listen the story of mine!
@@ -20,6 +20,7 @@ oh but Lots of fun stuff happening in the Github tonight! Are ye prepared?
 ![cloud-core (1)](https://user-images.githubusercontent.com/14316327/119266511-64560600-bbeb-11eb-8dd8-584c64affc5d.png)
 ![ccna-enterprise-networking-security-and-automation](https://user-images.githubusercontent.com/14316327/119267330-71282900-bbee-11eb-8d44-185b00e930ef.png)
 ![grab-landing-page](https://media.giphy.com/media/fnQd9kJVAx5M3G80mv/giphy.gif)
+![building-cloud-native-and-multicloud-applications (1)](https://user-images.githubusercontent.com/14316327/120120530-1e2a1500-c19e-11eb-9972-ee244df73df9.png)
 
 Hmm the fireplace is warm smells some code take a look at here! Every great story starts somewhere... 
 
