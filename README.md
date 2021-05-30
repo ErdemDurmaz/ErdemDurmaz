@@ -22,6 +22,9 @@ oh but Lots of fun stuff happening in the Github tonight! Are ye prepared?
 ![grab-landing-page](https://media.giphy.com/media/fnQd9kJVAx5M3G80mv/giphy.gif)
 ![building-cloud-native-and-multicloud-applications (1)](https://user-images.githubusercontent.com/14316327/120120530-1e2a1500-c19e-11eb-9972-ee244df73df9.png)
 
+
+
+
 Hmm the fireplace is warm smells some code take a look at here! Every great story starts somewhere... 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=technomage)](https://github.com/ErdemDurmaz/github-readme-stats)
